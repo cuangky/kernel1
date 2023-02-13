@@ -1,0 +1,6 @@
+5abcd21298a31a54e09d6caef8235d76be0323b00b066a57797ff3d441509e2b  boot-6.1.11-kzero.tar.gz
+e063747e2ff7dd11d8265de07da98bac52f67cf99667b6ed59aa99e3ee28d6f5  dtb-allwinner-6.1.11-kzero.tar.gz
+6eb4fa70b049fb335bc4b089b1acead8736eb3ee4d7587bc8ba1ed671b4c48e7  dtb-amlogic-6.1.11-kzero.tar.gz
+6b776df6d47aa54bad3522483f1996dea9b8318da9113ea872074fc757078b27  dtb-rockchip-6.1.11-kzero.tar.gz
+c465ab71a7d9315feb2cd9979fa45206b5e3cd7007bbb183d837ebacaa6d1d0e  header-6.1.11-kzero.tar.gz
+d20912edefd9e2afad274ecbfb614f2c9ce20540855b3eca14f3514da0ca7663  modules-6.1.11-kzero.tar.gz
